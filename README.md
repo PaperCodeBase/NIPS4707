@@ -31,7 +31,7 @@ We notice that there is still a lack of benchmark datasets for smart contract vu
 
 The dataset has been created by collecting smart contracts from three different sources: 1) Ethereum platform (more than 96%), 2) GitHub repositories, and 3) blog posts that analyze contracts.
 
-More details for the dataset guidance can be found on our dataset page at [Dataset](https://github.com/PaperCodeBase/Dataset).
+More details for the dataset guidance can be found on our dataset page at [Dataset](https://github.com/PaperCodeBase/Smart-Contract-Dataset).
 
 
 
